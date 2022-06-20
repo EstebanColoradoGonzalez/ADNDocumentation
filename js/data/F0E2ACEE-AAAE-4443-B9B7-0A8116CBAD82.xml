@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.1.1:1", "", "Destination", "EARoot/EA1/EA1/EA1/EA1/EA12.html", "5.png", "E635", "0", "", "Class0","{94BD3DB5-178B-4fd1-8668-8F4B47AADB19}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:2", "", "Hotel", "EARoot/EA1/EA1/EA1/EA1/EA13.html", "5.png", "E636", "0", "", "Class0","{58F567DF-D027-40e7-91FE-321223A269DA}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:3", "", "Reservation", "EARoot/EA1/EA1/EA1/EA1/EA14.html", "5.png", "E634", "0", "", "Class0","{A6CC951E-3089-45be-9686-1A7A5CEFD7CB}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:4", "", "Room", "EARoot/EA1/EA1/EA1/EA1/EA15.html", "5.png", "E637", "0", "", "Class0","{9D7B9D64-3E47-4f97-A6A5-E9E7152914DB}");
